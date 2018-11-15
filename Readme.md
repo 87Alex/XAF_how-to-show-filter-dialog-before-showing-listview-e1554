@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ViewFilterContainerDetailViewController.cs](./CS/WinSample.Module.Win/ViewFilterContainerDetailViewController.cs) (VB: [ViewFilterContainerDetailViewController.vb](./VB/WinSample.Module.Win/ViewFilterContainerDetailViewController.vb))
+* [Module.cs](./CS/WinSample.Module/Module.cs) (VB: [Module.vb](./VB/WinSample.Module/Module.vb))
+* **[ShowFilterDialogController.cs](./CS/WinSample.Module/ShowFilterDialogController.cs) (VB: [ShowFilterDialogController.vb](./VB/WinSample.Module/ShowFilterDialogController.vb))**
+* [ViewFilterContainer.cs](./CS/WinSample.Module/ViewFilterContainer.cs) (VB: [ViewFilterContainer.vb](./VB/WinSample.Module/ViewFilterContainer.vb))
+* [ViewFilterObject.cs](./CS/WinSample.Module/ViewFilterObject.cs) (VB: [ViewFilterObject.vb](./VB/WinSample.Module/ViewFilterObject.vb))
+<!-- default file list end -->
 # How to show filter dialog before showing ListView
 
 
